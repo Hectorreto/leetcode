@@ -1,0 +1,15 @@
+{
+  "name": "ts",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "tsx sudoku.ts",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "tsx": "^4.7.1"
+  }
+}
